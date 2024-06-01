@@ -3,7 +3,7 @@
 ![04978815af09d0b900374c35ed6230f](https://github.com/AltriaAvalon/restudy/assets/122516253/d93a6f7e-edda-41d0-a283-ba4d434b623f)
 ## 通过nake执行makefile
 ![b94c28f5f30846a99dff9ac53057af8](https://github.com/AltriaAvalon/restudy/assets/122516253/4da7f522-3ce6-4bad-81be-ce72c3e8fa37)
-## 移动到开发板的/home/minilinux文件夹下
+## 共享到共享目录的/home/minilinux文件夹下
 ![f501a5d41a3e82ca8ed95508c63161e](https://github.com/AltriaAvalon/restudy/assets/122516253/adf40461-c52d-4866-b63b-b2022d91fe0f)
 ## 挂载到对应文件夹
 ![5fb2cf46ea7b26faf3726c391f02cff](https://github.com/AltriaAvalon/restudy/assets/122516253/759e7c90-1d76-45df-8279-2f14ada9506a)
